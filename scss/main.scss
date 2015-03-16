@@ -143,7 +143,7 @@ html, button, input, select, textarea,
 }
 
 body{
-	color: $primary-dark;
+	color: $primary-light;
 }
 a {
   color: $primary-dark;
@@ -201,6 +201,7 @@ a:hover {
 
 .branding {
    background: $primary-light;
+   color: $primary-dark;
    
    h1 {
      display: block;

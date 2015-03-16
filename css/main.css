@@ -478,7 +478,7 @@ html, button, input, select, textarea,
 }
 
 body {
-  color: #222222;
+  color: white;
 }
 
 a {
@@ -527,6 +527,7 @@ a:hover {
 
 .branding {
   background: white;
+  color: #222222;
 }
 .branding h1 {
   display: block;
