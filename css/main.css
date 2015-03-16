@@ -486,7 +486,8 @@ a {
 }
 
 a:hover {
-  background: orange;
+  background: #222222;
+  color: white;
 }
 
 .link-on-dark {
@@ -544,7 +545,8 @@ a:hover {
   width: 100%;
   height: 100%;
   display: block;
-  background: orange;
+  background: #222222;
+  color: white;
 }
 .post-list li a:hover {
   background: #ffc966;
