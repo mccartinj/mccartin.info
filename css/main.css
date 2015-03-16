@@ -527,6 +527,9 @@ a:hover {
 .branding {
   background: white;
 }
+.branding h1 {
+  display: inline-block;
+}
 
 .post-list {
   padding: 0;

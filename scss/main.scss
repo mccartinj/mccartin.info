@@ -200,6 +200,10 @@ a:hover {
 
 .branding {
    background: $primary-light;
+   
+   h1 {
+     display: inline-block;
+   }
 }
 
 .post-list {
