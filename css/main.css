@@ -241,7 +241,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   background: orange;
 }
 
-.no-margin, .brand-title {
+.no-margin {
   margin: 0;
 }
 
@@ -509,7 +509,8 @@ a:hover {
 }
 
 .inner {
-  width: 95%;
+  width: auto;
+  padding: 1em;
 }
 
 .reader {
@@ -520,8 +521,4 @@ a:hover {
 .ptitle {
   margin-top: 0;
   font-size: 2em;
-}
-
-.brand-title {
-  font-size: 2.3em;
 }

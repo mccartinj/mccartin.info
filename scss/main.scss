@@ -174,7 +174,8 @@ a:hover {
 }
 
 .inner {
-  width: 95%;
+  width: auto;
+  padding: 1em;
 }
 
 
@@ -196,8 +197,6 @@ a:hover {
   font-size: 2em;
 }
 
-.brand-title {
-	@extend .no-margin; 
-	font-size: 2.3em; 
+.branding {
+   
 }
-
