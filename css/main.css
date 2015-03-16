@@ -459,6 +459,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
+  background: orange;
 }
 
 html, button, input, select, textarea,
@@ -521,4 +522,18 @@ a:hover {
 .ptitle {
   margin-top: 0;
   font-size: 2em;
+}
+
+.branding {
+  background: white;
+}
+
+.post-list {
+  padding: 0;
+}
+.post-list li {
+  background: orange;
+}
+.post-list li:hover {
+  background: #ffc966;
 }

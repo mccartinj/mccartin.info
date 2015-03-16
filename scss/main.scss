@@ -125,6 +125,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
+  background: $highlight;
 }
 
 html, button, input, select, textarea,
@@ -198,5 +199,17 @@ a:hover {
 }
 
 .branding {
-   
+   background: $primary-light;
+}
+
+.post-list {
+  padding: 0;
+  
+  li {
+    background: $highlight;
+    
+    &:hover {
+      background: lighten($highlight,20%);
+    }
+  }
 }
