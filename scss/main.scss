@@ -225,7 +225,7 @@ a:hover {
       display: block;
       background: $primary-dark;
       color: $primary-light;
-      
+      transition: all .4s linear;
       &:hover {
         background: lighten($primary-dark,20%);
       }

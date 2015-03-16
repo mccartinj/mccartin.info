@@ -548,6 +548,7 @@ a:hover {
   display: block;
   background: #222222;
   color: white;
+  transition: all .4s linear;
 }
 .post-list li a:hover {
   background: #555555;
