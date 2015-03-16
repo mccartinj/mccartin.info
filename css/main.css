@@ -459,7 +459,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: orange;
+  background: #222222;
 }
 
 html, button, input, select, textarea,
@@ -538,7 +538,7 @@ a:hover {
   margin: 0;
 }
 .post-list li {
-  outline: 1px solid #ffc966;
+  outline: 1px solid #555555;
   position: relative;
   top: -1px;
 }
@@ -550,5 +550,5 @@ a:hover {
   color: white;
 }
 .post-list li a:hover {
-  background: #ffc966;
+  background: #555555;
 }
