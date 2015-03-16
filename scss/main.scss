@@ -207,6 +207,9 @@ a:hover {
   
   li {
     background: $highlight;
+    outline: 1px solid lighten($highlight,20%);
+    position: relative;
+    top: -1px;
     
     &:hover {
       background: lighten($highlight,20%);

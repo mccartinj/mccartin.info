@@ -533,6 +533,9 @@ a:hover {
 }
 .post-list li {
   background: orange;
+  outline: 1px solid #ffc966;
+  position: relative;
+  top: -1px;
 }
 .post-list li:hover {
   background: #ffc966;
