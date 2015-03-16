@@ -546,6 +546,6 @@ a:hover {
   display: block;
   background: orange;
 }
-.post-list li:hover {
+.post-list li a:hover {
   background: #ffc966;
 }

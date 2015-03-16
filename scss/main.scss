@@ -222,11 +222,13 @@ a:hover {
       height: 100%;
       display: block;
       background: $highlight;
+      
+      &:hover {
+        background: lighten($highlight,20%);
+      }
     }
     
-    &:hover {
-      background: lighten($highlight,20%);
-    }
+    
     
   }
 }
