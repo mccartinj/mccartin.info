@@ -508,6 +508,8 @@ a:hover {
 .layout {
   min-height: 100%;
   position: relative;
+  width: 90%;
+  margin-top: 1em;
 }
 
 .inner {
@@ -526,11 +528,12 @@ a:hover {
 }
 
 .branding {
-  background: #222222;
-  color: white;
+  background: transparent;
+  color: #00a86b;
 }
 .branding h1 {
   display: block;
+  background: white;
 }
 
 .post-list {

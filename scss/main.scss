@@ -172,6 +172,8 @@ a:hover {
 .layout {
   min-height: 100%;
   position: relative;
+  width: 90%;
+  margin-top: 1em;
 }
 
 .inner {
@@ -189,6 +191,7 @@ a:hover {
 
 
 
+
 .post {
 
 }
@@ -199,11 +202,12 @@ a:hover {
 }
 
 .branding {
-   background: $primary-dark;
-   color: $primary-light;
+   background: transparent;
+   color: $highlight;
    
    h1 {
      display: block;
+     background: $primary-light;
    }
 }
 
