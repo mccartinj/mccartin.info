@@ -89,10 +89,9 @@ $primary-dark: #222;
 $primary-light: #fff;
 $mid-tone: #666;
 $mid-light: #ddd;
-$highlight: orange;
+$highlight: #00A86B;
 $base-size: 16px;
 $reader-size: 1.25em;
-
 $mobile-break: 30em;
 $tablet-break: 48em;
 $desktop-break: 81.25em;
@@ -125,7 +124,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: $primary-dark;
+  background: $primary-light;
 }
 
 html, button, input, select, textarea,
@@ -146,11 +145,11 @@ body{
 	color: $primary-light;
 }
 a {
-  color: $primary-dark;
+  color: $highlight;
 }
 
 a:hover {
-  background: $primary-dark;
+  background: $highlight;
   color: $primary-light;
 }
 

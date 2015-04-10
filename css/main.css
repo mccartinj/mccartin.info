@@ -197,7 +197,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 }
 
 .brand-title.dark {
-  background: orange;
+  background: #00a86b;
 }
 
 .debug {
@@ -238,7 +238,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 .pure-menu li a:hover, .pure-menu li a:focus {
   color: #222222;
-  background: orange;
+  background: #00a86b;
 }
 
 .no-margin {
@@ -459,7 +459,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: #222222;
+  background: white;
 }
 
 html, button, input, select, textarea,
@@ -468,12 +468,12 @@ html, button, input, select, textarea,
 }
 
 ::selection {
-  background: orange;
+  background: #00a86b;
   color: white;
 }
 
 ::-moz-selection {
-  background: orange;
+  background: #00a86b;
   color: white;
 }
 
@@ -482,11 +482,11 @@ body {
 }
 
 a {
-  color: #222222;
+  color: #00a86b;
 }
 
 a:hover {
-  background: #222222;
+  background: #00a86b;
   color: white;
 }
 
