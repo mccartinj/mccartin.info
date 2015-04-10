@@ -509,7 +509,8 @@ a:hover {
   min-height: 100%;
   position: relative;
   width: 90%;
-  margin-top: 1em;
+  margin-top: 2em;
+  border: 8px solid #00a86b;
 }
 
 .inner {
@@ -533,6 +534,9 @@ a:hover {
 }
 .branding h1 {
   display: block;
+  background: transparent;
+}
+.branding h1 a {
   background: white;
 }
 
