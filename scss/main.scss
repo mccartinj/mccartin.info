@@ -174,6 +174,7 @@ a:hover {
   position: relative;
   width: 90%;
   margin-top: 2em;
+  margin-bottom: 2em;
   border: 8px solid $highlight;
 }
 
@@ -205,7 +206,7 @@ a:hover {
 .branding {
    background: transparent;
    color: $highlight;
-   margin-top: -2em;
+   margin-top: -1.7em;
    
    h1 {
      display: block;

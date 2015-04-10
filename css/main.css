@@ -510,6 +510,7 @@ a:hover {
   position: relative;
   width: 90%;
   margin-top: 2em;
+  margin-bottom: 2em;
   border: 8px solid #00a86b;
 }
 
@@ -531,7 +532,7 @@ a:hover {
 .branding {
   background: transparent;
   color: #00a86b;
-  margin-top: -2em;
+  margin-top: -1.7em;
 }
 .branding h1 {
   display: block;
