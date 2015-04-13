@@ -221,12 +221,13 @@ a:hover {
      background: transparent;
      
      a {
-       background: $primary-light;
-       color: $highlight;
+       background: $highlight;
+       color: $primary-light;
        
        &:hover {
          background: $highlight;
        color: $primary-light;
+       box-shadow: 0 0 3px $hightlight;
        }
      }
    }
