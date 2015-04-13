@@ -543,7 +543,8 @@ a:hover {
   background: transparent;
 }
 .branding h1 a {
-  background: white;
+  background: #00a86b;
+  color: white;
 }
 
 .post-list {

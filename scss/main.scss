@@ -148,6 +148,7 @@ body{
 }
 a {
   color: $highlight;
+  
 }
 
 a:hover {
@@ -215,7 +216,8 @@ a:hover {
      background: transparent;
      
      a {
-       background: $primary-light;
+       background: $highlight;
+       color: $primary-light;
      }
    }
 }
