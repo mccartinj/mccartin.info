@@ -9,7 +9,7 @@ tags:
 ---
 
 # Program Jam
-Building program inspiration
+Speculative architectural program mashups – jammed together in javascript.
 
 ##[Demo here.](http://johnmccartin.github.io/program-jam/)
 
