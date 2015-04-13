@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TBT illustration/web design screenshots from 2011-2
+title: TBT Illustration/Web design Screenshots from 2011/2012
 subtitle: 
 tags:
   -illustration
@@ -9,7 +9,8 @@ tags:
 
 #Alleyhouse Studio
 
-I used to do make illustrations and websites for $$$. This is a blog of screenshots from that process.
+I used to make illustrations and websites for $$$. This is a blog of screenshots from that process.
 
+##[Link here.](http://alleyhouseweb.tumblr.com)
 
-##[Link here.](http://alleyhousestudio.tumblr.com)
+![computer madness]()
