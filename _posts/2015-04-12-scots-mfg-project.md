@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scots Mfg
+title: Scots Mfg (d3 test)
 subtitle: Scottish Manufacturing Data
 tags:
   -planning
