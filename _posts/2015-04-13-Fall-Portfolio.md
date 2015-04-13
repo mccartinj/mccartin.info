@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spatial Analysis Portfolio 2014
-subtitle: Harvard Urban Planning Core Studio 1
+title: Data Dump: Spatial Analysis Portfolio 2014
+subtitle: Work for the GSD
 tags:
   -planning
   -spatial
