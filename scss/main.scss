@@ -126,7 +126,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: $primary-light;
+  background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/pyramid.png') repeat fixed $primary-light;
 }
 
 html, button, input, select, textarea,
@@ -179,6 +179,7 @@ a:hover {
   margin-top: 2em;
   margin-bottom: 2em;
   border: 8px solid $highlight;
+  background: $primary-light;
   
   img {
     width: 100%;
