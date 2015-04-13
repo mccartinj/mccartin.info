@@ -585,7 +585,7 @@ a:hover {
   font-weight: 100;
 }
 
-@media screen and (max-width: 48em) {
+@media screen and (min-width: 48em) {
   .branding h1 a {
     padding: 0 2em;
   }
