@@ -254,6 +254,7 @@ a:hover {
       display: block;
       transition: all .2s linear;
       text-decoration: none;
+      font-weight: 300;
       &:hover {
         color: $primary-light;
       }
@@ -266,5 +267,5 @@ a:hover {
 
 .recent-heading {
   font-size: 1.2em;
-  font-weight: 700;
+  font-weight: 100;
 }
