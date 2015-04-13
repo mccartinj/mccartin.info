@@ -553,6 +553,7 @@ a:hover {
 .branding h1 a:hover {
   background: #00a86b;
   color: white;
+  box-shadow: 0 0 3px #00a86b;
 }
 
 .post-list {

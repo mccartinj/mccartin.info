@@ -220,6 +220,7 @@ a:hover {
      display: block;
      background: transparent;
      
+     
      a {
        background: $highlight;
        color: $primary-light;
@@ -227,7 +228,7 @@ a:hover {
        &:hover {
          background: $highlight;
        color: $primary-light;
-       box-shadow: 0 0 3px $hightlight;
+       box-shadow: 0 0 3px $highlight;
        }
      }
    }
