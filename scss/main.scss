@@ -118,7 +118,9 @@ $desktop-break: 81.25em;
 @import 'text';
 @import 'zs';
 
-
+* {
+  box-sizing: border-box;
+}
 
 html, body {
   height: 100%;

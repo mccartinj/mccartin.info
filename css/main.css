@@ -455,6 +455,10 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   z-index: -99999;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html, body {
   height: 100%;
   width: 100%;
