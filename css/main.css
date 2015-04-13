@@ -517,6 +517,9 @@ a:hover {
   margin-bottom: 2em;
   border: 8px solid #00a86b;
 }
+.layout img {
+  width: 100%;
+}
 
 .inner {
   width: auto;
