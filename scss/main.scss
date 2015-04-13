@@ -175,10 +175,10 @@ a:hover {
 
 .layout {
   position: relative;
-  width: 90%;
+  width: 100%;
   margin-top: 2em;
   margin-bottom: 2em;
-  border: 8px solid $highlight;
+  border: 4px solid $highlight;
   background: $primary-light;
   
   img {
@@ -272,6 +272,11 @@ a:hover {
 }
 
 @media screen and (min-width: 48em) {
+
+  .layout {
+    width: 90%;
+    border: 8px solid $highlight;
+  }
   .branding h1 a {
     padding: 0 2em;
   }
