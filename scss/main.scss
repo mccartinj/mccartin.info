@@ -224,6 +224,7 @@ a:hover {
      a {
        background: $highlight;
        color: $primary-light;
+       padding: 0;
        
        &:hover {
          background: $highlight;
@@ -268,4 +269,10 @@ a:hover {
 .recent-heading {
   font-size: 1.2em;
   font-weight: 100;
+}
+
+@media screen and (max-width: 48em) {
+  .branding h1 a {
+    padding: 0 2em;
+  }
 }

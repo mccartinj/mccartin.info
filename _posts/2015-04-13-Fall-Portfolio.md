@@ -9,6 +9,6 @@ tags:
 
 # Data Dump
 Critical Spatial Analysis – Fall 2014 Portfolio
-Work produced for the *Urban Planning Core Studio 1* and *Spatial Analysis and Representation* at Harvard GSD . 
+Work produced for the *Spatial Analysis and Representation* and *Urban Planning Core Studio 1* at Harvard GSD . 
 
 <div data-configid="1910965/12307073" style="width:650px; height:410px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not Just a Nice Place to Stroll
+title: Manufacturing in Glasgow Policy Brief
 subtitle: 
 tags:
   -planning

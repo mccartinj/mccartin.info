@@ -549,6 +549,7 @@ a:hover {
 .branding h1 a {
   background: #00a86b;
   color: white;
+  padding: 0;
 }
 .branding h1 a:hover {
   background: #00a86b;
@@ -582,4 +583,10 @@ a:hover {
 .recent-heading {
   font-size: 1.2em;
   font-weight: 100;
+}
+
+@media screen and (max-width: 48em) {
+  .branding h1 a {
+    padding: 0 2em;
+  }
 }
