@@ -237,6 +237,8 @@ a:hover {
     outline: 0px solid lighten($primary-dark,20%);
     position: relative;
     top: -1px;
+    list-style: none;
+    font-size: 1.3em;
  
     
     a {
@@ -244,6 +246,7 @@ a:hover {
       height: 100%;
       display: block;
       transition: all .2s linear;
+      text-decoration: none;
       &:hover {
         color: $primary-light;
       }
