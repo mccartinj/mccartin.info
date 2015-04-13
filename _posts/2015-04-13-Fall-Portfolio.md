@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Spatial Analysis Portfolio 2014
 subtitle: Harvard Urban Planning Core Studio 1
 tags:
