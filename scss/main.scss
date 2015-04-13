@@ -238,7 +238,7 @@ a:hover {
       display: block;
       transition: all .2s linear;
       &:hover {
-        color: lighten($highlight, 2);
+        color: $primary-light;
       }
     }
     
