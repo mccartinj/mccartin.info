@@ -531,6 +531,7 @@ a:hover {
 .reader {
   width: 100%;
   max-width: 600px;
+  font-size: 1.2em;
 }
 
 .ptitle {
