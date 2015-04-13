@@ -13,4 +13,7 @@ I used to make illustrations and websites for $$$. This is a blog of screenshots
 
 ##[Link here.](http://alleyhouseweb.tumblr.com)
 
-![computer madness]()
+![computer madness](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/alleyhouse/computer-madness.png)
+![roads](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/alleyhouse/roads.jpg)
+![eyes](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/alleyhouse/eyes.jpg)
+![hands](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/alleyhouse/hands.jpg)
