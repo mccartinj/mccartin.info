@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Dump: Spatial Analysis Portfolio 2014
+title: Data Dump – Spatial Analysis Portfolio 2014
 subtitle: Work for the GSD
 tags:
   -planning
