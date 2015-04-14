@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Islanders – A fictitious planning narrative.
+title: New Islanders – A fictitious planning narrative.
 subtitle:
 tags:
   -planning
