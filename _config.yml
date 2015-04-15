@@ -20,4 +20,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: John McCartin
   email: john.mccartin@gmail.com
-  twitter: #mccaartiin
+  twitter: @mccaartiin
+
+# posts
