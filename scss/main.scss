@@ -284,6 +284,7 @@ a:hover {
   font-size: .65em;
   font-weight: 100;
   color: $mid-tone;
+  transition: all .2s linear;
 }
 
 @media screen and (min-width: 48em) {

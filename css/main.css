@@ -597,6 +597,7 @@ a:hover {
   font-size: .65em;
   font-weight: 100;
   color: #666666;
+  transition: all .2s linear;
 }
 
 @media screen and (min-width: 48em) {
