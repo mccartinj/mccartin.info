@@ -463,7 +463,8 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: url("https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png") repeat fixed white;
+  /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
+  background: white;
 }
 
 html, button, input, select, textarea,
