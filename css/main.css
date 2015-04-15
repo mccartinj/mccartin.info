@@ -591,9 +591,9 @@ a:hover {
 
 .tags {
   display: none;
-  font-size: .7em;
+  font-size: .65em;
   font-weight: 100;
-  color: #dddddd;
+  color: #666666;
 }
 
 @media screen and (min-width: 48em) {
