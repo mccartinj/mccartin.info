@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Scots Mfg – D3 Test
+title: Scots Mfg
 subtitle: Scottish Manufacturing Data
 tags:
   data
   visualization
+  d3
   planning
   manufacturing
   javascript
