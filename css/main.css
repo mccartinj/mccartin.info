@@ -589,7 +589,18 @@ a:hover {
   font-weight: 100;
 }
 
+.tags {
+  display: none;
+  font-size: .7em;
+  font-weight: 100;
+  color: #dddddd;
+}
+
 @media screen and (min-width: 48em) {
+  .tags {
+    display: inline;
+  }
+
   .layout {
     width: 90%;
     border: 8px solid #00a86b;
