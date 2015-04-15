@@ -11,7 +11,7 @@ tags:
 Final Project for the *Urban Planning Core Studio* (Fall 2014) at Harvard GSD.
 
 
-![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley1.png)
-![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley2.png)
-![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley3.png)
-![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley4.png)
+![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley1.jpg)
+![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley2.jpg)
+![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley3.jpg)
+![Engine Dudley](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/dudley/dudley4.jpg)
