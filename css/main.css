@@ -583,6 +583,9 @@ a:hover {
 .post-list li a:hover {
   color: white;
 }
+.post-list li a:hover .tags {
+  color: white;
+}
 
 .recent-heading {
   font-size: 1.2em;

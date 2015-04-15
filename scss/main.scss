@@ -262,6 +262,10 @@ a:hover {
       font-weight: 300;
       &:hover {
         color: $primary-light;
+        
+        .tags {
+          color: $primary-light;
+        }
       }
     }
     
