@@ -3,7 +3,7 @@ layout: post
 title: Ring of Fire
 subtitle:
 tags:
-  web design
+  web
   css
   framework
 ---

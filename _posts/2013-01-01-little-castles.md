@@ -7,7 +7,7 @@ tags:
   urbanism
   architecture
   theory
-  print design
+  print
 ---
 
 # Little Casteles Revisited

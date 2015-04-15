@@ -3,7 +3,7 @@ layout: post
 title: Not Just a Nice Place to Stroll
 subtitle: 
 tags:
-  urban planning
+  planning
   policy
   manufacturing
   glasgow

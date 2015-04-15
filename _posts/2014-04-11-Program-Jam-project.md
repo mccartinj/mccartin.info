@@ -3,7 +3,7 @@ layout: post
 title: Program Jam
 subtitle: Jam those architectural programs
 tags:
-  web design
+  web
   architecture
   urbanism
   javascript

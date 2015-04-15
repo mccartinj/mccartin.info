@@ -3,7 +3,7 @@ layout: post
 title: Firestarter – WP starter theme
 subtitle:
 tags:
-  web design
+  web
   wordpress
   css
   starter

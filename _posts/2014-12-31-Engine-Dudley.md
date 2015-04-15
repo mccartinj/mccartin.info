@@ -3,11 +3,11 @@ layout: post
 title: Engine Dudley
 subtitle: Urban Planning Core Studio Final Project
 tags:
-  urban planning
+  planning
   urbanism
   boston
   manufacturing
-  print design
+  print
 ---
 
 # Engine: Dudley

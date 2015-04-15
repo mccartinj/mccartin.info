@@ -4,7 +4,7 @@ title: TBT Design Blog 2012
 subtitle: 
 tags:
   illustration
-  web design
+  web
 ---
 
 #Alleyhouse Studio

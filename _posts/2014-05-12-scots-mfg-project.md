@@ -3,8 +3,9 @@ layout: post
 title: Scots Mfg – D3 Test
 subtitle: Scottish Manufacturing Data
 tags:
-  data visualization
-  urban planning
+  data
+  visualization
+  planning
   manufacturing
   javascript
 ---

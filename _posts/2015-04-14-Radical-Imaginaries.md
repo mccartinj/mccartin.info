@@ -3,8 +3,8 @@ layout: post
 title: Radical Imaginaries
 subtitle: 
 tags:
-  -collage
-  -urbanism
+  collage
+  urbanism
 ---
 
 # Radical Imaginaries
