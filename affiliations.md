@@ -1,7 +1,7 @@
 ---
-layout: pg
+layout: post
 title: Affiliations
-subtitle: Work for the GSD
+subtitle: Where I'm involved
 ---
 
 #Affiliations
