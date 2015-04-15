@@ -3,9 +3,10 @@ layout: post
 title: Firestarter – WP starter theme
 subtitle:
 tags:
-  -css
-  -oocss
   -web design
+  -wordpress
+  -css
+  -starter
 ---
 
 # Firestarter

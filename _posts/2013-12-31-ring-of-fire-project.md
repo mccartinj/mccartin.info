@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ring of Fire – css framework
+title: Ring of Fire
 subtitle:
 tags:
-  -css
-  -oocss
   -web design
+  -css
+  -framework
 ---
 
 # Ring of Fire

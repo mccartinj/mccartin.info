@@ -15,7 +15,7 @@ title: John McCartin
 <ul class="post-list">
 	{% for post in site.posts %}
 		<li class="pointer">
-			<a class="padding-top-1 padding-bottom-1 padding-left-2 padding-right-2" href="{{ post.url }}">{{ post.title }}</a>
+			<a class="padding-top-1 padding-bottom-1 padding-left-2 padding-right-2" href="{{ post.url }}"><span class="title">{{ post.title }}</span><span class="tags">{{ post.tags | array_to_sentence_string }}</a>
 		</li>
 	{% endfor %}
 </ul>

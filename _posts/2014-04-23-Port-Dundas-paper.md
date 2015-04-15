@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Manufacturing in Glasgow Policy Brief
+title: Not Just a Nice Place to Stroll
 subtitle: 
 tags:
-  -planning
-  -spatial
+  -urban planning
+  -policy
+  -manufacturing
+  -glasgow
+  -urbanism
 ---
 
 #Not Just a Nice Place to Stroll

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: TBT Illustration/Web design Screenshots from 2011/2012
+title: TBT Design Blog 2012
 subtitle: 
 tags:
   -illustration
-  -design
+  -web design
 ---
 
 #Alleyhouse Studio

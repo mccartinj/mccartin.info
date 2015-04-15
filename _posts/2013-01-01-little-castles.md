@@ -5,7 +5,9 @@ subtitle:
 tags:
   -baltimore
   -urbanism
-  -architectural association
+  -architecture
+  -theory
+  -print design
 ---
 
 # Little Casteles Revisited

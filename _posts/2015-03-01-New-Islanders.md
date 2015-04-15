@@ -1,12 +1,15 @@
 ---
 layout: post
-title: New Islanders – A fictitious planning narrative.
+title: New Islanders
 subtitle:
 tags:
-  -planning
+  -urban planning
   -narrative
   -fiction
   -comics
+  -urbanism
+  -illustration
+  -print design
 ---
 
 # New Islanders
