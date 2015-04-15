@@ -4,9 +4,14 @@ title: Affiliations
 subtitle: Where I'm involved
 ---
 
-#Affiliations
+#Affiliations + Positions
 
-##Current
+###Current
 *  MUP Candidate at Harvard GSD
-*  Chair, Working GSD (2015-2016)
+*  Chair, Working GSD (AY 2015-2016)
 *  Member, GSD Dept. of Urban Planning and Design Diversity Committee
+*  Communications Director, Harvard Urban Planning Organization (AY 2015-2016)
+
+###Past
+*  Fulbright - University of Strathclyde Postgraduate Researcher
+*  U. Strathclyde, Dept. of Architecture, Cultural & Historical Studies Unit
