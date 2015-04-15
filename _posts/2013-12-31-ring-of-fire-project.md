@@ -3,9 +3,9 @@ layout: post
 title: Ring of Fire
 subtitle:
 tags:
-  -web design
-  -css
-  -framework
+  web design
+  css
+  framework
 ---
 
 # Ring of Fire

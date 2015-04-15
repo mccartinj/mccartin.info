@@ -3,9 +3,9 @@ layout: post
 title: Data Dump – Spatial Analysis Portfolio 2014
 subtitle: Work for the GSD
 tags:
-  -data visualization
-  -print design
-  -urban planning
+  data visualization
+  print design
+  urban planning
 ---
 
 # Data Dump

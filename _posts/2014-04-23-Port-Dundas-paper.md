@@ -3,11 +3,11 @@ layout: post
 title: Not Just a Nice Place to Stroll
 subtitle: 
 tags:
-  -urban planning
-  -policy
-  -manufacturing
-  -glasgow
-  -urbanism
+  urban planning
+  policy
+  manufacturing
+  glasgow
+  urbanism
 ---
 
 #Not Just a Nice Place to Stroll

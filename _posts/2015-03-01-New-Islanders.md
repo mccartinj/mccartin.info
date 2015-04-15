@@ -3,13 +3,13 @@ layout: post
 title: New Islanders
 subtitle:
 tags:
-  -urban planning
-  -narrative
-  -fiction
-  -comics
-  -urbanism
-  -illustration
-  -print design
+  urban planning
+  narrative
+  fiction
+  comics
+  urbanism
+  illustration
+  print design
 ---
 
 # New Islanders

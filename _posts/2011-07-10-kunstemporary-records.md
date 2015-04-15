@@ -3,8 +3,8 @@ layout: post
 title: Music was made
 subtitle: 
 tags:
-  -music
-  -noise
+  music
+  noise
 ---
 
 # Kunstemporary Records

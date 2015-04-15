@@ -3,11 +3,11 @@ layout: post
 title: Program Jam
 subtitle: Jam those architectural programs
 tags:
-  -web design
-  -architecture
-  -urbanism
-  -javascript
-  -fun
+  web design
+  architecture
+  urbanism
+  javascript
+  fun
 ---
 
 # Program Jam

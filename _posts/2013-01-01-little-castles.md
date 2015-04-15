@@ -3,11 +3,11 @@ layout: post
 title: Little Castles Revisited
 subtitle:
 tags:
-  -baltimore
-  -urbanism
-  -architecture
-  -theory
-  -print design
+  baltimore
+  urbanism
+  architecture
+  theory
+  print design
 ---
 
 # Little Casteles Revisited

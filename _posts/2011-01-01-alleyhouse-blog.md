@@ -3,8 +3,8 @@ layout: post
 title: TBT Design Blog 2012
 subtitle: 
 tags:
-  -illustration
-  -web design
+  illustration
+  web design
 ---
 
 #Alleyhouse Studio
