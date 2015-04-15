@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: pg
 title: Affiliations
 subtitle: Work for the GSD
 ---
