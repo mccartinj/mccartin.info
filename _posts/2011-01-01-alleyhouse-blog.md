@@ -9,7 +9,7 @@ tags:
 
 #Alleyhouse Studio
 
-I used to make illustrations and websites for $$$. This is a blog of screenshots from that process.
+I used to make illustrations and websites for $$$. This is a blog of screenshots from that process. Much of my paid practice involved consulting on existing WordPress-based sites and writing custom code solutions for them, so unfortunately the screenshots became less exciting.
 
 ##[Link here.](http://alleyhouseweb.tumblr.com)
 
