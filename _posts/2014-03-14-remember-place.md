@@ -20,4 +20,5 @@ The project creates a front-end face for interactions with a WordPress database,
 
 ##[Demo here.](http://www.mccartin.info/deposit)
 
-![Remember.place](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/jam-it.png)
+![Remember.place](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/remember-place/remember-place1.png)
+![Remember.place](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/remember-place/remember-place2.png)
