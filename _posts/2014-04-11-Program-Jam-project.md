@@ -11,7 +11,7 @@ tags:
 ---
 
 # Program Jam
-Speculative architectural program mashups – jammed together in javascript.
+Speculative architectural program mashups – jammed together in javascript. Ideas and programs worked out with [Willy Mann](http://www.willymann.com) under the tentative name *Why Not Labs*.
 
 ##[Demo here.](http://johnmccartin.github.io/program-jam/)
 
