@@ -1,3 +1,12 @@
+---
+layout: post
+title: Not Just a Nice Place to Stroll
+subtitle: 
+tags:
+  web
+  javascript
+  wordpress
+---
 #Silencio
 
 Silencio builds on my [Firestarter](http://www.github.com/johnmccartin/firestarter/) theme, adding in seamless (silent) page loads through ajax.
