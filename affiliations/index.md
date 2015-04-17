@@ -11,6 +11,7 @@ subtitle: Where I'm involved
 *  Chair, Working GSD (AY 2015-2016)
 *  Member, GSD Dept. of Urban Planning and Design Diversity Committee
 *  Communications Director, Harvard Urban Planning Organization (AY 2015-2016)
+*  Research Assistant, Health and Places Initiative (GSD/HSPH)
 
 ###Past
 *  Fulbright - University of Strathclyde Postgraduate Researcher
