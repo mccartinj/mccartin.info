@@ -3,11 +3,11 @@ layout: post
 title: Work It! Revere
 subtitle: 
 tags:
-  planning
-  urbanism
-  manufacturing
-  urban design
-  economic development
+  planning,
+  urbanism,
+  manufacturing,
+  urban design,
+  economic development,
   revere
 ---
 
