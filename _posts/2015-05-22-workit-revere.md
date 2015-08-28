@@ -2,13 +2,14 @@
 layout: post
 title: Work It! Revere
 subtitle: 
-tags:
+tags: {
   planning,
   urbanism,
   manufacturing,
   urban design,
   economic development,
   revere
+  }
 ---
 
 # Work It! Revere
