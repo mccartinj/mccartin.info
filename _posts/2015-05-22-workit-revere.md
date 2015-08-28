@@ -19,4 +19,6 @@ tags:
 ## Project Presentation:
 <div data-configid="1910965/15048332" style="width:400px; height:300px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
+
+
 *Work It! Revere* was prepared for the GSD's *Urban Planning Core Studio II* by Annie White and John McCartin.
