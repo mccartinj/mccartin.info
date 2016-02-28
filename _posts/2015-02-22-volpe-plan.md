@@ -3,9 +3,9 @@ layout: post
 title: Kendall Square Volpe Redesign
 subtitle: 
 tags:
-  planning
-  urban design
-  illustration
+  - planning
+  - urban design
+  - illustration
 ---
 
 # Redesigning Cambridge's Volpe Center
