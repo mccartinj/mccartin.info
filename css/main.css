@@ -536,6 +536,10 @@ a:hover {
   font-size: 1.2em;
 }
 
+.home-img {
+  width: 80%;
+}
+
 .ptitle {
   margin-top: 0;
   font-size: 2em;
