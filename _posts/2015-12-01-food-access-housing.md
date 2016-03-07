@@ -21,15 +21,15 @@ We found food access to be a significant component of residential sales pricing.
 
 ## Example Graphics
 #### Legend
-![Legend](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacess/legend.jpg)
+![Legend](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/legend.jpg)
 <br /><br />
 #### Fresh Food
-![Fresh Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacess/fresh-map.jpg)
+![Fresh Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fresh-map.jpg)
 <br /><br />
-![Fresh Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacess/fresh-demos.jpg)
+![Fresh Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fresh-demos.jpg)
 <br /><br />
 
 #### Fast Food
-![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacess/fast-map.jpg)
+![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-map.jpg)
 <br /><br />
-![Fast Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-demos.jpg)
+![Fast Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacccess/fast-demos.jpg)
