@@ -526,6 +526,7 @@ a:hover {
 }
 .layout img.home-img {
   width: 80%;
+  margin: 0 auto;
 }
 
 .inner {
