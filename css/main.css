@@ -524,6 +524,9 @@ a:hover {
 .layout img {
   width: 100%;
 }
+.layout img.home-img {
+  width: 80%;
+}
 
 .inner {
   width: auto;
@@ -534,10 +537,6 @@ a:hover {
   width: 100%;
   max-width: 600px;
   font-size: 1.2em;
-}
-
-.home-img {
-  width: 80%;
 }
 
 .ptitle {
