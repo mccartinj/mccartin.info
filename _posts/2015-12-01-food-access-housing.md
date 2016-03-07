@@ -11,7 +11,7 @@ tags:
 
 # (Healthy) Food Access and Residential Property Sales
 
-![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacess/fast-map.jpg)
+![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-map.jpg)
 
 ## Intro & Method
 In this project we measured the effects of access to fresh and fast food on residential property sales in NYC. First we gathered data on grocery stores, farmers markets, and fast food restaurants. We measured access to those food stores from residential properties sold in 2013 using a gravity model. We aggregated those gravities by census tract, and determined average access for tracts with certain demographic characteristics. We fed those gravities into a hedonic price model and determined the impact of fresh food and fast food access on home prices, controlling for a series of variables.
@@ -32,4 +32,4 @@ We found food access to be a significant component of residential sales pricing.
 #### Fast Food
 ![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-map.jpg)
 <br /><br />
-![Fast Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodacccess/fast-demos.jpg)
+![Fast Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-demos.jpg)
