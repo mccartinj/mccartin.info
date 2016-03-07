@@ -20,16 +20,21 @@ In this project we measured the effects of access to fresh and fast food on resi
 We found food access to be a significant component of residential sales pricing. Within Manhattan, homes with the highest _fresh_ food accessibility (within the 90th percentile) were $150,209 more expensive than those with the lowest accessibility (<10th percentile). Conversely, Manhattan's homes in areas of high _fast_ food accessibility were worth $277,169 less than those with the lowest fast food accessibility.
 
 ## Example Graphics
+
 #### Legend
+
 ![Legend](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/legend.jpg)
 <br /><br />
+
 #### Fresh Food
+
 ![Fresh Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fresh-map.jpg)
 <br /><br />
 ![Fresh Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fresh-demos.jpg)
 <br /><br />
 
 #### Fast Food
+
 ![Fast Food](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-map.jpg)
 <br /><br />
 ![Fast Food Demographics](https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/foodaccess/fast-demos.jpg)
