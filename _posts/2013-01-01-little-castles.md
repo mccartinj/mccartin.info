@@ -10,7 +10,7 @@ tags:
   print
 ---
 
-# Little Casteles Revisited
+# Little Castles Revisited
 
 *Little Castles Revisited* explores the power and politics of color in Formstone, an iconic, adaptive, everyday architectural feature of Baltimore's rowhouse landscape.
 
