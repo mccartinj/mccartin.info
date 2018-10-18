@@ -18,5 +18,5 @@ The approach to UX leads to a lot of indeterminacy, which is pretty good experim
 
 Tech: Node, Express, MongoDB, Pug, SCSS, jQuery, Websockets
 
-## [Link here.](http://pyschojazz.herokuapp.com)
+## [Link here.](http://psychojazz.herokuapp.com)
 
