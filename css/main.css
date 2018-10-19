@@ -628,7 +628,7 @@ a:hover {
 }
 /* line 192, ../scss/main.scss */
 .layout img {
-  max-width: 100%;
+  width: 100%;
   box-shadow: 0px 0px 10px #666;
 }
 /* line 196, ../scss/main.scss */
