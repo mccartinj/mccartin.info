@@ -30,13 +30,13 @@ http://www.alleyhouseestudio.com
 
 
 My simplistic attempts at
-												  
-	  _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
-	_|    _|  _|    _|  _|        _|        _|        
-	_|    _|  _|    _|  _|          _|_|      _|_|    
-	_|    _|  _|    _|  _|              _|        _|  
-	  _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
-			  
+                          
+    _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
+  _|    _|  _|    _|  _|        _|        _|        
+  _|    _|  _|    _|  _|          _|_|      _|_|    
+  _|    _|  _|    _|  _|              _|        _|  
+    _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
+        
 breaking from that model for where need be.
                                                  
     
@@ -55,10 +55,10 @@ breaking from that model for where need be.
 / /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \__
 
 
-		
+    
 
-		** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
-		
+    ** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
+    
 
 \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / _
  \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
@@ -127,14 +127,14 @@ html, body {
   width: 100%;
   overflow-x: hidden;
   /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
-  background: $primary-light;
+  background: $highlight;
   
 }
 
 html, button, input, select, textarea,
 .pure-g [class *= "pure-u"] {
-	font-family: $font-stack;
-	font-weight: 100;
+  font-family: $font-stack;
+  font-weight: 100;
 }
 
 ::selection {
@@ -147,16 +147,16 @@ html, button, input, select, textarea,
 }
 
 body{
-	color: $highlight;
+  color: $primary-light;
 }
 a {
-  color: $highlight;
+  color: $primary-light;
   
 }
 
 a:hover {
-  background: $highlight;
-  color: $primary-light;
+  background: $primary-light;
+  color: $highlight;
 }
 
 .link-on-dark {
@@ -181,21 +181,22 @@ a:hover {
   margin-top: 2em;
   margin-bottom: 4em;
   border: 4px solid $highlight;
-  background: $primary-light;
+  background: $highlight;
   padding: .5em;
   padding-bottom: 2em;
+  text-align: center;
 
   .home-img-wrap {
-  	width: 100%;
+    width: 100%;
   }
   
   img {
     width: 100%;
 
     &.home-img {
-    	width: 80%;
-    	margin: 2em auto 1em auto;
-    	display: block;
+      width: 80%;
+      margin: 2em auto 1em auto;
+      display: block;
     }
   }
 }
@@ -209,8 +210,8 @@ a:hover {
 
 .reader {
   width: 100%;
-  max-width: 600px;
-  font-size: 1.2em;
+  max-width: 800px;
+  font-size: 1.6em;
 }
 
 
@@ -233,7 +234,8 @@ a:hover {
    h1 {
      display: block;
      background: transparent;
-     font-weight: 300;
+     font-weight: 800;
+     font-size: 4em;
      
      
      a {

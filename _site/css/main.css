@@ -30,13 +30,13 @@ http://www.alleyhouseestudio.com
 
 
 My simplistic attempts at
-												  
-	  _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
-	_|    _|  _|    _|  _|        _|        _|        
-	_|    _|  _|    _|  _|          _|_|      _|_|    
-	_|    _|  _|    _|  _|              _|        _|  
-	  _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
-			  
+                          
+    _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
+  _|    _|  _|    _|  _|        _|        _|        
+  _|    _|  _|    _|  _|          _|_|      _|_|    
+  _|    _|  _|    _|  _|              _|        _|  
+    _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
+        
 breaking from that model for where need be.
                                                  
     
@@ -55,10 +55,10 @@ breaking from that model for where need be.
 / /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \__
 
 
-		
+    
 
-		** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
-		
+    ** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
+    
 
 \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / _
  \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
@@ -90,132 +90,166 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 |_|_| |_| |_| .__/ \___/|_|   \__|___/
             |_|                       
 */
+/* line 1, ../scss/_border.scss */
 .border {
-  border-color: #666666 !important;
+  border-color: #666 !important;
 }
 
+/* line 5, ../scss/_border.scss */
 .border-mid {
-  border-color: #dddddd !important;
+  border-color: #ddd !important;
 }
 
+/* line 10, ../scss/_border.scss */
 .border-1 {
   border: 1px solid;
 }
 
+/* line 13, ../scss/_border.scss */
 .border-2 {
   border: 2px solid;
 }
 
+/* line 16, ../scss/_border.scss */
 .border-4 {
   border: 4px solid;
 }
 
+/* line 20, ../scss/_border.scss */
 .border-top-1 {
   border-top: 1px solid;
 }
 
+/* line 23, ../scss/_border.scss */
 .border-top-2 {
   border-top: 2px solid;
 }
 
+/* line 26, ../scss/_border.scss */
 .border-top-4 {
   border-top: 4px solid;
 }
 
+/* line 30, ../scss/_border.scss */
 .border-bottom-1 {
   border-bottom: 1px solid;
 }
 
+/* line 33, ../scss/_border.scss */
 .border-bottom-2 {
   border-bottom: 2px solid;
 }
 
+/* line 36, ../scss/_border.scss */
 .border-bottom-4 {
   border-bottom: 4px solid;
 }
 
+/* line 40, ../scss/_border.scss */
 .border-left-1 {
   border-left: 1px solid;
 }
 
+/* line 43, ../scss/_border.scss */
 .border-left-2 {
   border-left: 2px solid;
 }
 
+/* line 46, ../scss/_border.scss */
 .border-left-4 {
   border-left: 4px solid;
 }
 
+/* line 50, ../scss/_border.scss */
 .border-right-1 {
   border-right: 1px solid;
 }
 
+/* line 53, ../scss/_border.scss */
 .border-right-2 {
   border-right: 2px solid;
 }
 
+/* line 56, ../scss/_border.scss */
 .border-right-4 {
   border-right: 4px solid;
 }
 
+/* line 1, ../scss/_dark.scss */
 .pure-menu {
   list-style: none;
 }
 
+/* line 5, ../scss/_dark.scss */
 .dark {
-  background: #222222;
-  color: white;
+  background: #222;
+  color: #fff;
 }
+/* line 13, ../scss/_dark.scss */
 .dark .border {
-  border-color: white;
+  border-color: #fff;
 }
+/* line 17, ../scss/_dark.scss */
 .dark .pure-menu.pure-menu-open, .dark .pure-menu.pure-menu-horizontal li .pure-menu-children {
   background: transparent;
   border: 0px;
 }
+/* line 22, ../scss/_dark.scss */
 .dark .pure-menu a, .dark .pure-menu .pure-menu-can-have-children > li:after {
-  color: white;
+  color: #fff;
 }
+/* line 26, ../scss/_dark.scss */
 .dark .pure-menu li a {
   padding: 5px 0px;
 }
+/* line 30, ../scss/_dark.scss */
 .dark .pure-menu li a:hover, .dark .pure-menu li a:focus {
-  color: #dddddd;
+  color: #ddd;
 }
+/* line 36, ../scss/_dark.scss */
 .dark .pure-menu .sub-menu a {
-  color: white;
+  color: #fff;
   padding-left: 1em;
 }
+/* line 41, ../scss/_dark.scss */
 .dark .pure-menu .sub-menu li:hover > a {
-  color: #dddddd;
+  color: #ddd;
 }
+/* line 45, ../scss/_dark.scss */
 .dark a {
-  color: white;
+  color: #fff;
 }
+/* line 49, ../scss/_dark.scss */
 .dark a:hover {
-  color: #dddddd;
+  color: #ddd;
 }
 
+/* line 56, ../scss/_dark.scss */
 .brand-title.dark {
-  background: #00a86b;
+  background: #00A86B;
 }
 
+/* line 6, ../scss/_debug.scss */
 .debug {
   border: 1px solid;
 }
 
+/* line 10, ../scss/_debug.scss */
 .debug-red {
   border-color: red;
 }
 
+/* line 14, ../scss/_debug.scss */
 .debug-yellow {
   border-color: yellow;
 }
 
+/* line 1, ../scss/_menu.scss */
 .nav-menu {
-  background: #666666;
+  background: #666;
 }
 
+/* line 5, ../scss/_menu.scss */
 .pure-menu ul {
   visibility: visible;
   top: auto;
@@ -223,167 +257,207 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   position: relative;
 }
 
+/* line 13, ../scss/_menu.scss */
 .pure-menu.pure-menu-open, .pure-menu.pure-menu-horizontal li .pure-menu-children {
   background: transparent;
   border: 0px;
 }
 
+/* line 18, ../scss/_menu.scss */
 .pure-menu a, .pure-menu .pure-menu-can-have-children > li:after {
-  color: #222222;
+  color: #222;
 }
 
+/* line 22, ../scss/_menu.scss */
 .pure-menu li a {
   padding: 5px 0px;
 }
 
+/* line 26, ../scss/_menu.scss */
 .pure-menu li a:hover, .pure-menu li a:focus {
-  color: #222222;
-  background: #00a86b;
+  color: #222;
+  background: #00A86B;
 }
 
+/* line 1, ../scss/_margin.scss */
 .no-margin {
   margin: 0;
 }
 
+/* line 5, ../scss/_margin.scss */
 .margin-1 {
   margin: 1em;
 }
 
+/* line 9, ../scss/_margin.scss */
 .margin-2 {
   margin: 2em;
 }
 
+/* line 13, ../scss/_margin.scss */
 .margin-4 {
   margin: 4em;
 }
 
+/* line 17, ../scss/_margin.scss */
 .margin-top-1 {
   margin-top: 1em;
 }
 
+/* line 21, ../scss/_margin.scss */
 .margin-top-2 {
   margin-top: 2em;
 }
 
+/* line 25, ../scss/_margin.scss */
 .margin-top-4 {
   margin-top: 4em;
 }
 
+/* line 29, ../scss/_margin.scss */
 .margin-bottom-1 {
   margin-bottom: 1em;
 }
 
+/* line 33, ../scss/_margin.scss */
 .margin-bottom-2 {
   margin-bottom: 2em;
 }
 
+/* line 37, ../scss/_margin.scss */
 .margin-bottom-4 {
   margin-bottom: 4em;
 }
 
+/* line 41, ../scss/_margin.scss */
 .margin-right-1 {
   margin-right: 1em;
 }
 
+/* line 45, ../scss/_margin.scss */
 .margin-right-2 {
   margin-right: 2em;
 }
 
+/* line 49, ../scss/_margin.scss */
 .margin-right-4 {
   margin-right: 4em;
 }
 
+/* line 53, ../scss/_margin.scss */
 .margin-left-1 {
   margin-left: 1em;
 }
 
+/* line 57, ../scss/_margin.scss */
 .margin-left-2 {
   margin-left: 2em;
 }
 
+/* line 61, ../scss/_margin.scss */
 .margin-left-4 {
   margin-left: 4em;
 }
 
+/* line 1, ../scss/_padding.scss */
 .padding-1 {
   padding: 1em;
 }
 
+/* line 5, ../scss/_padding.scss */
 .padding-2 {
   padding: 2em;
 }
 
+/* line 9, ../scss/_padding.scss */
 .padding-4 {
   padding: 4em;
 }
 
+/* line 13, ../scss/_padding.scss */
 .padding-top-1 {
   padding-top: 1em;
 }
 
+/* line 17, ../scss/_padding.scss */
 .padding-top-2 {
   padding-top: 2em;
 }
 
+/* line 21, ../scss/_padding.scss */
 .padding-top-4 {
   padding-top: 4em;
 }
 
+/* line 25, ../scss/_padding.scss */
 .padding-bottom-1 {
   padding-bottom: 1em;
 }
 
+/* line 29, ../scss/_padding.scss */
 .padding-bottom-2 {
   padding-bottom: 2em;
 }
 
+/* line 33, ../scss/_padding.scss */
 .padding-bottom-4 {
   padding-bottom: 4em;
 }
 
+/* line 37, ../scss/_padding.scss */
 .padding-right-1 {
   padding-right: 1em;
 }
 
+/* line 41, ../scss/_padding.scss */
 .padding-right-2 {
   padding-right: 2em;
 }
 
+/* line 45, ../scss/_padding.scss */
 .padding-right-4 {
   padding-right: 4em;
 }
 
+/* line 49, ../scss/_padding.scss */
 .padding-left-1 {
   padding-left: 1em;
 }
 
+/* line 53, ../scss/_padding.scss */
 .padding-left-2 {
   padding-left: 2em;
 }
 
+/* line 57, ../scss/_padding.scss */
 .padding-left-4 {
   padding-left: 4em;
 }
 
+/* line 1, ../scss/_positioners.scss */
 .pull-down {
   bottom: 0;
 }
 
+/* line 5, ../scss/_positioners.scss */
 .pull-right {
   float: right;
   right: 0;
 }
 
+/* line 10, ../scss/_positioners.scss */
 .pull-left {
   float: left;
 }
 
+/* line 15, ../scss/_positioners.scss */
 .stretch-lr {
   position: absolute;
   left: 0;
   right: 0;
 }
 
+/* line 21, ../scss/_positioners.scss */
 .stretch-all {
   position: absolute !important;
   top: 0 !important;
@@ -392,118 +466,144 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   right: 0 !important;
 }
 
+/* line 29, ../scss/_positioners.scss */
 .fixed {
   position: fixed !important;
 }
 
+/* line 33, ../scss/_positioners.scss */
 .static {
   position: static !important;
 }
 
+/* line 37, ../scss/_positioners.scss */
 .relative {
   position: relative !important;
 }
 
+/* line 41, ../scss/_positioners.scss */
 .absolute {
   position: absolute !important;
 }
 
+/* line 45, ../scss/_positioners.scss */
 .centered {
   margin-left: auto;
   margin-right: auto;
 }
 
 @media screen and (min-width: 48em) {
+  /* line 4, ../scss/_queries.scss */
   .nav-menu {
     background: transparent;
   }
 
+  /* line 9, ../scss/_queries.scss */
   .md-pull-down {
     bottom: 0;
   }
 
+  /* line 14, ../scss/_queries.scss */
   .header {
     position: fixed;
   }
 
+  /* line 18, ../scss/_queries.scss */
   .content {
     padding-top: 2em;
   }
 
+  /* line 22, ../scss/_queries.scss */
   .sidebar {
     padding-top: 2em;
   }
 }
+/* line 1, ../scss/_text.scss */
 .text-centered {
   text-align: center;
 }
 
+/* line 5, ../scss/_text.scss */
 .text-left {
   text-align: left;
 }
 
+/* line 9, ../scss/_text.scss */
 .text-right {
   text-align: right;
 }
 
 /*zs*/
+/* line 3, ../scss/_zs.scss */
 .top {
   z-index: 99999;
 }
 
+/* line 7, ../scss/_zs.scss */
 .bottom {
   z-index: -99999;
 }
 
+/* line 121, ../scss/main.scss */
 * {
   box-sizing: border-box;
 }
 
+/* line 125, ../scss/main.scss */
 html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
   /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
-  background: white;
+  background: #00A86B;
 }
 
+/* line 134, ../scss/main.scss */
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
   font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 100;
 }
 
+/* line 140, ../scss/main.scss */
 ::selection {
-  background: #00a86b;
-  color: white;
+  background: #00A86B;
+  color: #fff;
 }
 
+/* line 144, ../scss/main.scss */
 ::-moz-selection {
-  background: #00a86b;
-  color: white;
+  background: #00A86B;
+  color: #fff;
 }
 
+/* line 149, ../scss/main.scss */
 body {
-  color: #00a86b;
+  color: #fff;
 }
 
+/* line 152, ../scss/main.scss */
 a {
-  color: #00a86b;
+  color: #fff;
 }
 
+/* line 157, ../scss/main.scss */
 a:hover {
-  background: #00a86b;
-  color: white;
+  background: #fff;
+  color: #00A86B;
 }
 
+/* line 162, ../scss/main.scss */
 .link-on-dark {
-  color: white;
+  color: #fff;
 }
 
+/* line 166, ../scss/main.scss */
 .link-no-decor {
   text-decoration: none;
 }
 
+/* line 171, ../scss/main.scss */
 .pure-g > div {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -511,69 +611,84 @@ a:hover {
   box-sizing: border-box;
 }
 
+/* line 178, ../scss/main.scss */
 .layout {
   position: relative;
   width: 100%;
   margin-top: 2em;
   margin-bottom: 4em;
-  border: 4px solid #00a86b;
-  background: white;
+  border: 4px solid #00A86B;
+  background: #00A86B;
   padding: .5em;
   padding-bottom: 2em;
+  text-align: center;
 }
+/* line 189, ../scss/main.scss */
 .layout .home-img-wrap {
   width: 100%;
 }
+/* line 193, ../scss/main.scss */
 .layout img {
   width: 100%;
 }
+/* line 196, ../scss/main.scss */
 .layout img.home-img {
   width: 80%;
   margin: 2em auto 1em auto;
   display: block;
 }
 
+/* line 204, ../scss/main.scss */
 .inner {
   width: auto;
   padding: 1em;
 }
 
+/* line 211, ../scss/main.scss */
 .reader {
   width: 100%;
-  max-width: 600px;
-  font-size: 1.2em;
+  max-width: 800px;
+  font-size: 1.6em;
 }
 
+/* line 224, ../scss/main.scss */
 .ptitle {
   margin-top: 0;
   font-size: 2em;
 }
 
+/* line 229, ../scss/main.scss */
 .branding {
   background: transparent;
-  color: #00a86b;
+  color: #00A86B;
   margin-top: -2.2em;
 }
+/* line 234, ../scss/main.scss */
 .branding h1 {
   display: block;
   background: transparent;
-  font-weight: 300;
+  font-weight: 800;
+  font-size: 4em;
 }
+/* line 241, ../scss/main.scss */
 .branding h1 a {
-  background: #00a86b;
-  color: white;
+  background: #00A86B;
+  color: #fff;
   padding: 0;
 }
+/* line 246, ../scss/main.scss */
 .branding h1 a:hover {
-  background: #00a86b;
-  color: white;
-  box-shadow: 0 0 3px #00a86b;
+  background: #00A86B;
+  color: #fff;
+  box-shadow: 0 0 3px #00A86B;
 }
 
+/* line 256, ../scss/main.scss */
 .post-list {
   padding: 0;
   margin: 0;
 }
+/* line 260, ../scss/main.scss */
 .post-list li {
   outline: 0px solid #555555;
   position: relative;
@@ -581,6 +696,7 @@ a:hover {
   list-style: none;
   font-size: 1.3em;
 }
+/* line 269, ../scss/main.scss */
 .post-list li a {
   width: 100%;
   height: 100%;
@@ -589,36 +705,43 @@ a:hover {
   text-decoration: none;
   font-weight: 300;
 }
+/* line 276, ../scss/main.scss */
 .post-list li a:hover {
-  color: white;
+  color: #fff;
 }
+/* line 279, ../scss/main.scss */
 .post-list li a:hover .tags {
-  color: white;
+  color: #fff;
 }
 
+/* line 290, ../scss/main.scss */
 .recent-heading {
   font-size: 1.2em;
   font-weight: 100;
 }
 
+/* line 295, ../scss/main.scss */
 .tags {
   display: none;
   font-size: .65em;
   font-weight: 100;
-  color: #666666;
+  color: #666;
   transition: all .2s linear;
 }
 
 @media screen and (min-width: 48em) {
+  /* line 305, ../scss/main.scss */
   .tags {
     display: inline;
   }
 
+  /* line 308, ../scss/main.scss */
   .layout {
     width: 90%;
-    border: 8px solid #00a86b;
+    border: 8px solid #00A86B;
   }
 
+  /* line 312, ../scss/main.scss */
   .branding h1 a {
     padding: 0 2em;
   }

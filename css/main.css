@@ -30,13 +30,13 @@ http://www.alleyhouseestudio.com
 
 
 My simplistic attempts at
-												  
-	  _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
-	_|    _|  _|    _|  _|        _|        _|        
-	_|    _|  _|    _|  _|          _|_|      _|_|    
-	_|    _|  _|    _|  _|              _|        _|  
-	  _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
-			  
+                          
+    _|_|      _|_|      _|_|_|    _|_|_|    _|_|_|  
+  _|    _|  _|    _|  _|        _|        _|        
+  _|    _|  _|    _|  _|          _|_|      _|_|    
+  _|    _|  _|    _|  _|              _|        _|  
+    _|_|      _|_|      _|_|_|  _|_|_|    _|_|_|   
+        
 breaking from that model for where need be.
                                                  
     
@@ -55,10 +55,10 @@ breaking from that model for where need be.
 / /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \__
 
 
-		
+    
 
-		** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
-		
+    ** Dependencies: Pure CSS (responsive rollup) http://purecss.io/
+    
 
 \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / _
  \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
@@ -555,7 +555,7 @@ html, body {
   width: 100%;
   overflow-x: hidden;
   /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
-  background: #fff;
+  background: #00A86B;
 }
 
 /* line 134, ../scss/main.scss */
@@ -579,18 +579,18 @@ html, button, input, select, textarea,
 
 /* line 149, ../scss/main.scss */
 body {
-  color: #00A86B;
+  color: #fff;
 }
 
 /* line 152, ../scss/main.scss */
 a {
-  color: #00A86B;
+  color: #fff;
 }
 
 /* line 157, ../scss/main.scss */
 a:hover {
-  background: #00A86B;
-  color: #fff;
+  background: #fff;
+  color: #00A86B;
 }
 
 /* line 162, ../scss/main.scss */
@@ -618,18 +618,18 @@ a:hover {
   margin-top: 2em;
   margin-bottom: 4em;
   border: 4px solid #00A86B;
-  background: #fff;
+  background: #00A86B;
   padding: .5em;
   padding-bottom: 2em;
+  text-align: center;
 }
-/* line 188, ../scss/main.scss */
+/* line 189, ../scss/main.scss */
 .layout .home-img-wrap {
   width: 100%;
 }
-/* line 192, ../scss/main.scss */
+/* line 193, ../scss/main.scss */
 .layout img {
   width: 100%;
-  box-shadow: 0px 0px 10px #666;
 }
 /* line 196, ../scss/main.scss */
 .layout img.home-img {
@@ -638,36 +638,37 @@ a:hover {
   display: block;
 }
 
-/* line 205, ../scss/main.scss */
+/* line 204, ../scss/main.scss */
 .inner {
   width: auto;
   padding: 1em;
 }
 
-/* line 212, ../scss/main.scss */
+/* line 211, ../scss/main.scss */
 .reader {
   width: 100%;
-  max-width: 600px;
-  font-size: 1.2em;
+  max-width: 800px;
+  font-size: 1.6em;
 }
 
-/* line 225, ../scss/main.scss */
+/* line 224, ../scss/main.scss */
 .ptitle {
   margin-top: 0;
   font-size: 2em;
 }
 
-/* line 230, ../scss/main.scss */
+/* line 229, ../scss/main.scss */
 .branding {
   background: transparent;
   color: #00A86B;
   margin-top: -2.2em;
 }
-/* line 235, ../scss/main.scss */
+/* line 234, ../scss/main.scss */
 .branding h1 {
   display: block;
   background: transparent;
-  font-weight: 300;
+  font-weight: 800;
+  font-size: 4em;
 }
 /* line 241, ../scss/main.scss */
 .branding h1 a {
