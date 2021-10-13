@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: John McCartin
+title: June McCartin
 locale: en_US
 description: Urban Planner etc.
 logo: 
@@ -18,5 +18,5 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: John McCartin
-  email: john.mccartin@gmail.com
+  name: June McCartin
+  email: mccartinjune@gmail.com
