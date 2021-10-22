@@ -1,0 +1,7 @@
+I"�<h1 id="baltimore-parcel-data-scraper">Baltimore Parcel Data Scraper</h1>
+
+<p>Baltimore’s open parcel data does not give owner information, making analysis of ownership patterns nearly impossible. This node script uses chrome’s puppeteer to scrape data from Maryland’s assessor database for Baltimore City on a street-by-street basis.</p>
+<ul>
+  <li><a href="https://github.com/johnmccartin/dats">https://github.com/johnmccartin/dats</a></li>
+</ul>
+:ET

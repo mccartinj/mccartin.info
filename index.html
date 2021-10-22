@@ -2,26 +2,35 @@
 layout: home
 title: June McCartin
 ---
-
-<div class="info reader centered padding-1">
+<!--
+<div class="info reader">
 	<h1>sometimes an <a href="https://www.linkedin.com/in/johnmccartin/" target="_blank">urban planner</a></h1>
 	<h1>occasionally making <a href="http://www.kunstemporary.com" target="_blank">music</a></h1>
 	<h1><a href="http://www.twitter.com/mccaartiin" target="_blank">lurking</a> on twitter</h1>
-	<!--<h1>building <a href="http://www.github.com/johnmccartin" target="_blank">things</a> <a href="https://glitch.com/@johnmccartin" target="_blank">online</a></h1>-->
+	<h1>building <a href="http://www.github.com/johnmccartin" target="_blank">things</a> <a href="https://glitch.com/@johnmccartin" target="_blank">online</a></h1>
+</div>
+-->
 
-	
+
+<div class="info ">
+	<ul>
+		<li>former urban planner</li>
+		<li>experience in research, strategy, teaching, and engagement</li>
+		<li>playing around with gis and web-based tech</li>
+		<li>occasionally making art/music</li>
+	</ul>
 </div>
 
-<!--
 
-<p class="padding-left-2 recent-heading`">Selected (mostly recent) projects:<p>
-<ul class="post-list">
+<div class=" margin-top-1">
+<ul class="post-list margin-left-1">
 	{% for post in site.posts %}
 		<li class="pointer">
-			<a class="padding-top-1 padding-bottom-1 padding-left-2 padding-right-2" href="{{ post.url }}"><span class="title">{{ post.title }}</span><span class="tags margin-left-1">{{ post.tags | array_to_sentence_string }}</a>
+			<a class="padding-top-1 padding-left-1 padding-bottom-1 padding-right-2" href="{{ post.url }}"><span class="title">{{ post.title }}</span><span class="tags margin-left-1">{{ post.tags | array_to_sentence_string }}</a>
 		</li>
 	{% endfor %}
 </ul>
--->
+</div>
+
 
 

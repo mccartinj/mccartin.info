@@ -226,7 +226,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 /* line 56, ../scss/_dark.scss */
 .brand-title.dark {
-  background: #00A86B;
+  background: #000;
 }
 
 /* line 6, ../scss/_debug.scss */
@@ -276,7 +276,7 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 /* line 26, ../scss/_menu.scss */
 .pure-menu li a:hover, .pure-menu li a:focus {
   color: #222;
-  background: #00A86B;
+  background: #000;
 }
 
 /* line 1, ../scss/_margin.scss */
@@ -517,6 +517,16 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   .sidebar {
     padding-top: 2em;
   }
+
+  /* line 27, ../scss/_queries.scss */
+  .tags {
+    display: inline;
+  }
+
+  /* line 35, ../scss/_queries.scss */
+  .branding h1 a {
+    padding: 0 2em;
+  }
 }
 /* line 1, ../scss/_text.scss */
 .text-centered {
@@ -544,66 +554,65 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
   z-index: -99999;
 }
 
-/* line 121, ../scss/main.scss */
+/* line 123, ../scss/main.scss */
 * {
   box-sizing: border-box;
 }
 
-/* line 125, ../scss/main.scss */
+/* line 127, ../scss/main.scss */
 html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
-  background: #00A86B;
+  background: url("https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png") repeat fixed #fff;
 }
 
-/* line 134, ../scss/main.scss */
+/* line 136, ../scss/main.scss */
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: "Roboto", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: arial, sans-serif;
   font-weight: 100;
 }
 
-/* line 140, ../scss/main.scss */
+/* line 142, ../scss/main.scss */
 ::selection {
-  background: #00A86B;
+  background: #000;
   color: #fff;
 }
 
-/* line 144, ../scss/main.scss */
+/* line 146, ../scss/main.scss */
 ::-moz-selection {
-  background: #00A86B;
+  background: #000;
   color: #fff;
 }
 
-/* line 149, ../scss/main.scss */
+/* line 151, ../scss/main.scss */
 body {
-  color: #fff;
+  color: #000;
 }
 
-/* line 152, ../scss/main.scss */
+/* line 154, ../scss/main.scss */
 a {
+  color: #000;
+}
+
+/* line 159, ../scss/main.scss */
+a:hover {
+  background: #000;
   color: #fff;
 }
 
-/* line 157, ../scss/main.scss */
-a:hover {
-  background: #fff;
-  color: #00A86B;
-}
-
-/* line 162, ../scss/main.scss */
+/* line 164, ../scss/main.scss */
 .link-on-dark {
   color: #fff;
 }
 
-/* line 166, ../scss/main.scss */
+/* line 168, ../scss/main.scss */
 .link-no-decor {
   text-decoration: none;
 }
 
-/* line 171, ../scss/main.scss */
+/* line 173, ../scss/main.scss */
 .pure-g > div {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -611,84 +620,87 @@ a:hover {
   box-sizing: border-box;
 }
 
-/* line 178, ../scss/main.scss */
+/* line 180, ../scss/main.scss */
 .layout {
   position: relative;
-  width: 100%;
   margin-top: 2em;
-  margin-bottom: 4em;
-  border: 4px solid #00A86B;
-  background: #00A86B;
+  margin-bottom: 2em;
+  background: transparent;
   padding: .5em;
   padding-bottom: 2em;
-  text-align: center;
 }
 /* line 189, ../scss/main.scss */
 .layout .home-img-wrap {
   width: 100%;
 }
 /* line 193, ../scss/main.scss */
+.layout .info {
+  font-size: 1.75em;
+  font-weight: 800;
+}
+/* line 198, ../scss/main.scss */
 .layout img {
   width: 100%;
 }
-/* line 196, ../scss/main.scss */
+/* line 201, ../scss/main.scss */
 .layout img.home-img {
   width: 80%;
   margin: 2em auto 1em auto;
   display: block;
 }
 
-/* line 204, ../scss/main.scss */
+/* line 209, ../scss/main.scss */
 .inner {
   width: auto;
   padding: 1em;
 }
 
-/* line 211, ../scss/main.scss */
+/* line 216, ../scss/main.scss */
 .reader {
   width: 100%;
-  max-width: 800px;
-  font-size: 1.6em;
+  max-width: 700px;
 }
 
-/* line 224, ../scss/main.scss */
+/* line 229, ../scss/main.scss */
 .ptitle {
   margin-top: 0;
   font-size: 2em;
 }
 
-/* line 229, ../scss/main.scss */
+/* line 234, ../scss/main.scss */
 .branding {
   background: transparent;
-  color: #00A86B;
+  color: #000;
   margin-top: -2.2em;
 }
-/* line 234, ../scss/main.scss */
+/* line 239, ../scss/main.scss */
 .branding h1 {
   display: block;
   background: transparent;
   font-weight: 800;
-  font-size: 4em;
+  font-size: 10vw;
+  transform: scale(2, 1);
+  margin-left: 3.4em;
 }
-/* line 241, ../scss/main.scss */
+/* line 249, ../scss/main.scss */
 .branding h1 a {
-  background: #00A86B;
+  background: #000;
   color: #fff;
   padding: 0;
 }
-/* line 246, ../scss/main.scss */
+/* line 254, ../scss/main.scss */
 .branding h1 a:hover {
-  background: #00A86B;
+  background: #000;
   color: #fff;
-  box-shadow: 0 0 3px #00A86B;
+  box-shadow: 0 0 3px #000;
 }
 
-/* line 256, ../scss/main.scss */
+/* line 264, ../scss/main.scss */
 .post-list {
   padding: 0;
   margin: 0;
 }
-/* line 260, ../scss/main.scss */
+/* line 268, ../scss/main.scss */
 .post-list li {
   outline: 0px solid #555555;
   position: relative;
@@ -696,7 +708,7 @@ a:hover {
   list-style: none;
   font-size: 1.3em;
 }
-/* line 269, ../scss/main.scss */
+/* line 277, ../scss/main.scss */
 .post-list li a {
   width: 100%;
   height: 100%;
@@ -705,44 +717,26 @@ a:hover {
   text-decoration: none;
   font-weight: 300;
 }
-/* line 276, ../scss/main.scss */
+/* line 284, ../scss/main.scss */
 .post-list li a:hover {
+  background: #000;
   color: #fff;
 }
-/* line 279, ../scss/main.scss */
+/* line 288, ../scss/main.scss */
 .post-list li a:hover .tags {
   color: #fff;
 }
 
-/* line 290, ../scss/main.scss */
+/* line 299, ../scss/main.scss */
 .recent-heading {
   font-size: 1.2em;
   font-weight: 100;
 }
 
-/* line 295, ../scss/main.scss */
+/* line 304, ../scss/main.scss */
 .tags {
-  display: none;
   font-size: .65em;
   font-weight: 100;
   color: #666;
   transition: all .2s linear;
-}
-
-@media screen and (min-width: 48em) {
-  /* line 305, ../scss/main.scss */
-  .tags {
-    display: inline;
-  }
-
-  /* line 308, ../scss/main.scss */
-  .layout {
-    width: 90%;
-    border: 8px solid #00A86B;
-  }
-
-  /* line 312, ../scss/main.scss */
-  .branding h1 a {
-    padding: 0 2em;
-  }
 }

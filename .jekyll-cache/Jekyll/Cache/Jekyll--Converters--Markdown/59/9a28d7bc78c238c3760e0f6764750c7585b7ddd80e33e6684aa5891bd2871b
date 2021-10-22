@@ -1,0 +1,8 @@
+I"i<h1 id="minidocs">Minidocs</h1>
+
+<p>Inspired by a feeling that I shouldn’t need Alphabet Inc. to write, I built this simple online document editor loosely inspired by Google Docs (but simpler). Built with node, express, mongodb, and jQuery.</p>
+<ul>
+  <li><a href="http://minidocs.glitch.me/">Site (runs on glitch, takes a second to start up)</a></li>
+</ul>
+
+:ET

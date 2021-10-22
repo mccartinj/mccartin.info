@@ -1,0 +1,23 @@
+I"|<h1 id="envision-cambridge">Envision Cambridge</h1>
+
+<p>Envision Cambridge was a three-year comprehensive planning process conducted for the City of Cambridge, a community experiencing an economic boom and attendant social upheaval. The plan proposed a vision for the future of the city, including a spatial framework for change and development and policy recommendations for six focus areas. I managed the plan’s content development, scenario analysis, and plan writing. The plan advanced the now-passed Affordable Housing Overlay zoning, a new model being explored in jurisdictions on the east and west coasts.</p>
+
+<p>Here are some Envision Cambridge things:</p>
+
+<ul>
+  <li><a href="http://envision.cambridgema.gov/">Project website</a></li>
+  <li><a href="http://envision.cambridgema.gov/wp-content/uploads/2017/09/2017-09-20-Cambridge-Today-Spreads-For-Web.pdf">Cambridge Today</a></li>
+  <li><a href="http://envision.cambridgema.gov/wp-content/uploads/2019/06/201906_EnvisionCambridge-Final-Report.pdf">Citywide Plan</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Scenario Analysis <a href="http://envision.cambridgema.gov/wp-content/uploads/2018/11/Envision-Neighborhood_Business-Association-Presentation.pdf">slides (pdf)</a></td>
+          <td><a href="https://www.dropbox.com/s/fqszokan53h1m2i/2018-09-06%20Scenarios%20SCENARIO%20superinclusionary%20rework%20all%20fxns.sql?dl=0">code</a> built in pl/pgsql</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="http://envision.cambridgema.gov/engagement-data/">Engagement Data Viewer</a> built with html, scss, jquery, leaflet, with local geojsons</li>
+</ul>
+:ET

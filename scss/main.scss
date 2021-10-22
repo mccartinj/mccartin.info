@@ -84,12 +84,14 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 
 
 
-$font-stack: "Roboto","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+//$font-stack: "Roboto","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$font-stack: arial, sans-serif;
 $primary-dark: #222;
 $primary-light: #fff;
 $mid-tone: #666;
 $mid-light: #ddd;
-$highlight: #00A86B; //green!
+//$highlight: #00A86B; //green!
+$highlight: #000;
 $base-size: 16px;
 $reader-size: 1.25em;
 $mobile-break: 30em;
@@ -126,8 +128,8 @@ html, body {
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  /*background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;*/
-  background: $highlight;
+  background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;
+  //background: $highlight;
   
 }
 
@@ -147,16 +149,16 @@ html, button, input, select, textarea,
 }
 
 body{
-  color: $primary-light;
+  color: $highlight;
 }
 a {
-  color: $primary-light;
+  color: $highlight;
   
 }
 
 a:hover {
-  background: $primary-light;
-  color: $highlight;
+  background: $highlight;
+  color: $primary-light;;
 }
 
 .link-on-dark {
@@ -177,17 +179,20 @@ a:hover {
 
 .layout {
   position: relative;
-  width: 100%;
+  //width: 80%;
   margin-top: 2em;
-  margin-bottom: 4em;
-  border: 4px solid $highlight;
-  background: $highlight;
+  margin-bottom: 2em;
+  background: transparent;
   padding: .5em;
   padding-bottom: 2em;
-  text-align: center;
 
   .home-img-wrap {
     width: 100%;
+  }
+
+  .info {
+    font-size: 1.75em;
+    font-weight: 800;
   }
   
   img {
@@ -210,8 +215,8 @@ a:hover {
 
 .reader {
   width: 100%;
-  max-width: 800px;
-  font-size: 1.6em;
+  max-width: 700px;
+  //font-size: 1.6em;
 }
 
 
@@ -235,7 +240,10 @@ a:hover {
      display: block;
      background: transparent;
      font-weight: 800;
-     font-size: 4em;
+     font-size: 10vw;
+     transform:scale(2,1);
+     margin-left: 3.4em;
+
      
      
      a {
@@ -274,6 +282,7 @@ a:hover {
       text-decoration: none;
       font-weight: 300;
       &:hover {
+        background: $highlight;
         color: $primary-light;
         
         .tags {
@@ -293,23 +302,11 @@ a:hover {
 }
 
 .tags {
-  display: none;
+  //display: none;
   font-size: .65em;
   font-weight: 100;
   color: $mid-tone;
   transition: all .2s linear;
 }
 
-@media screen and (min-width: 48em) {
 
-  .tags {
-    display: inline;
-  }
-  .layout {
-    width: 90%;
-    border: 8px solid $highlight;
-  }
-  .branding h1 a {
-    padding: 0 2em;
-  }
-}

@@ -1,0 +1,10 @@
+I"T<h1 id="web-boilerplates">Web Boilerplates</h1>
+
+<p>This was a suite of technologies I developed to quickly deploy sites at work and for fun. Ring of Fire is an object-oriented CSS library (written in scss) that extends Yahoo’s <a href="https://purecss.io/">PureCSS</a> framework. Firestarter and Silencio are WordPress boilerplate themes that implement Ring of Fire. Firejekyll is a boilerplate jekyll theme that implements Ring of Fire. None of these projects are actively maintained, though all are still in use.</p>
+<ul>
+  <li><a href="https://github.com/johnmccartin/ring-of-fire">Ring of Fire</a></li>
+  <li><a href="https://github.com/johnmccartin/firestarter">Firestarter</a></li>
+  <li><a href="https://github.com/johnmccartin/silencio">Silencio</a></li>
+  <li><a href="https://github.com/johnmccartin/fire-jekyll">Firejekyll</a></li>
+</ul>
+:ET

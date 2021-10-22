@@ -1,0 +1,4 @@
+I"<h1 id="citysurveyco">CitySurvey.co</h1>
+
+<p>This site was a spatial survey builder. Survey creators could use the site to build a form with user inputs tied to specific locations the survey taker could choose. It was an online implementation of a common planning exercise collecting site-specific feedback. The site was built using node, pug, jquery, and express. Data was routed to mongo database, as well as Carto for instant visualization embedded on the site. Users could also use custom Mapbox styles to tie into the style guide of a given project. The tool was deployed in several Utile planning processes, including Imagine Salem and the Malden River Greenway study. Ultimately the tool was retired when Carto paywalled their API and I lacked the time to develop a workaround.</p>
+:ET
