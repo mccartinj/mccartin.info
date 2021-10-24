@@ -726,14 +726,22 @@ a:hover {
 .post-list li a:hover .tags {
   color: #fff;
 }
+/* line 300, ../scss/main.scss */
+.post-list .ftimg {
+  display: none;
+  max-width: 350px;
+  position: fixed;
+  z-index: 10;
+  box-shadow: 0px 0px 30px #fc6add;
+}
 
-/* line 299, ../scss/main.scss */
+/* line 309, ../scss/main.scss */
 .recent-heading {
   font-size: 1.2em;
   font-weight: 100;
 }
 
-/* line 304, ../scss/main.scss */
+/* line 314, ../scss/main.scss */
 .tags {
   font-size: .65em;
   font-weight: 100;

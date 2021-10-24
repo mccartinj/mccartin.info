@@ -2,6 +2,7 @@
 layout: post
 title: Design for Uprising
 subtitle: 
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0003.jpg?raw=true
 tags:
   tech
   data
@@ -15,4 +16,11 @@ tags:
 
 
 * [Read here.](https://issuu.com/jomccartin/docs/thesis_book2)
+
+![Design for Uprising variable illustration](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0001.jpg?raw=true)
+![Uprising events by average street segment width](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0004.jpg?raw=true)
+![Uprising events by intersection density](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0003.jpg?raw=true)
+![Uprising events by street wall index](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0002.jpg?raw=true)
+![Uprising events by HOLA rating](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0006.jpg?raw=true)
+![Downtown events map-axon](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/design-for-uprising/portfolio2020_Page_18_Image_0005.jpg?raw=true)
 
