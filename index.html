@@ -14,14 +14,14 @@ title: June McCartin
 	</ul>
 </div>
 
-<hr />
+
 
 <div class=" margin-top-1">
 
 {% assign ptags = site.posts | map: 'tags' | uniq %}
 
 <div class="tag-filter padding-top-2 margin-left-1 margin-bottom-1">
-	<span>sort by tag: </span>
+	<span>filter by tag: </span>
 	<select class="sorter">
 		<option>all tags</option>
 		{% for tag in ptags %}
