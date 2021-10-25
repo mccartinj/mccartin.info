@@ -2,6 +2,7 @@
 layout: post
 title: Web Boilerplates
 subtitle: 
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/firestarter/fire.jpg?raw=true
 tags:
   tech
 ---
