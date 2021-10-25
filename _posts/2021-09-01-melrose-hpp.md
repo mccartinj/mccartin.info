@@ -19,6 +19,4 @@ A housing plan for the City of Melrose, MA under M.G.L. Chapter 40B. This proces
 * [Video: policy and development forum](https://vimeo.com/570023015) 
 
 
-![Fair Housing Action Plan Cover](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/arlington/cover.png?raw=true)
-![Arlington and region redlining map](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/arlington/redlining.png?raw=true)
-![Population of color density map](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/arlington/race.png?raw=true)
+![MHPP Logo](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/portfolio2020_Page_12_Image_0003.jpg?raw=true)
