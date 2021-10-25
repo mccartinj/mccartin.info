@@ -30,7 +30,7 @@ function show_img() {
 		var $ftimg = $(this).find(".ftimg");
 		var imgheight = $ftimg.height();
 		var imgwidth = $ftimg.width();
-		$ftimg.addClass("activated").css({display:"block",top:event.pageY-imgheight,left:event.pageX});
+		$ftimg.addClass("activated").css({display:"block",top:event.pageY-imgheight-10,left:event.pageX});
 
 	}, function(event){
 		console.log('end hovering');
@@ -44,7 +44,7 @@ function show_img() {
 		var imgheight = $active_image.height();
 		var imgwidth = $active_image.width();
 		console.log(imgheight);
-		$active_image.css({top:event.pageY-imgheight,left:event.pageX});
+		$active_image.css({top:event.pageY-imgheight-10,left:event.pageX});
 	});
 	
 }
