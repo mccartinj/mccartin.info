@@ -2,6 +2,7 @@
 layout: post
 title: Program Jam
 subtitle: Jam those architectural programs
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/jam-it.png?raw=true
 tags:
   tech
   architecture

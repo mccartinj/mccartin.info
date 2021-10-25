@@ -2,6 +2,7 @@
 layout: post
 title: Imagine Salem
 subtitle: 
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/imagine-salem/portfolio2020_Page_09_Image_0004.jpg?raw=true
 tags:
   planning
   housing

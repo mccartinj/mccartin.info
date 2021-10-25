@@ -20,3 +20,7 @@ A housing plan for the City of Melrose, MA under M.G.L. Chapter 40B. This proces
 
 
 ![MHPP Logo](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/portfolio2020_Page_12_Image_0003.jpg?raw=true)
+![Webinar Screenshot](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/webinar.png?raw=true)
+![Online Open House Screenshot](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/ooh_mobile.png?raw=true)
+![Crowdsourced Development Location Map](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/devt_locs.png?raw=true)
+![Crowdsourced Development Types Summary](https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/melrose/devt_types.png?raw=true)
