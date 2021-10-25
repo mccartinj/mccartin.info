@@ -2,6 +2,7 @@
 layout: post
 title: Little Castles Revisited
 subtitle:
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/formstone/Formstone.Layout_Page_14_Image_0001.jpg?raw=true
 tags:
   writing
   architecture

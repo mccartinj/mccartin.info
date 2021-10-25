@@ -2,6 +2,7 @@
 layout: post
 title: Baltimore Parcel Data Scraper
 subtitle: 
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/dats/dtPFdxDQ.jpeg?raw=true
 tags:
   tech
   data

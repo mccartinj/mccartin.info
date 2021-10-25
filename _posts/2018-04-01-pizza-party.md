@@ -2,6 +2,7 @@
 layout: post
 title: Pizza Party
 subtitle: 
+ftimg: https://github.com/johnmccartin/johnmccartin.github.io/blob/master/img/pizzaparty/meltypizza.jpg?raw=true
 tags:
   tech
   data
