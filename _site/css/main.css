@@ -563,8 +563,9 @@ __   ____ _ _ __(_) __ _| |__ | | ___  ___
 html, body {
   height: 100%;
   width: 100%;
-  overflow-x: hidden;
-  background: url("https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png") repeat fixed #fff;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
 }
 
 /* line 136, ../scss/main.scss */
@@ -626,61 +627,58 @@ a:hover {
   margin-top: 2em;
   margin-bottom: 2em;
   background: transparent;
-  padding: .5em;
   padding-bottom: 2em;
 }
-/* line 189, ../scss/main.scss */
+/* line 188, ../scss/main.scss */
 .layout .home-img-wrap {
   width: 100%;
 }
-/* line 193, ../scss/main.scss */
+/* line 192, ../scss/main.scss */
 .layout .info {
   font-size: 1.75em;
   font-weight: 800;
 }
-/* line 198, ../scss/main.scss */
+/* line 197, ../scss/main.scss */
 .layout img {
   width: 100%;
 }
-/* line 201, ../scss/main.scss */
+/* line 200, ../scss/main.scss */
 .layout img.home-img {
   width: 80%;
   margin: 2em auto 1em auto;
   display: block;
 }
 
-/* line 209, ../scss/main.scss */
+/* line 208, ../scss/main.scss */
 .inner {
   width: auto;
   padding: 1em;
 }
 
-/* line 216, ../scss/main.scss */
+/* line 215, ../scss/main.scss */
 .reader {
   width: 100%;
   max-width: 700px;
 }
 
-/* line 229, ../scss/main.scss */
+/* line 228, ../scss/main.scss */
 .ptitle {
   margin-top: 0;
   font-size: 2em;
 }
 
-/* line 234, ../scss/main.scss */
+/* line 233, ../scss/main.scss */
 .branding {
   background: transparent;
   color: #000;
   margin-top: -2.2em;
 }
-/* line 239, ../scss/main.scss */
+/* line 238, ../scss/main.scss */
 .branding h1 {
   display: block;
   background: transparent;
   font-weight: 800;
-  font-size: 10vw;
-  transform: scale(2, 1);
-  margin-left: 3.4em;
+  font-size: 20.9vw;
 }
 /* line 249, ../scss/main.scss */
 .branding h1 a {

@@ -30,7 +30,10 @@ function show_img() {
 		var $ftimg = $(this).find(".ftimg");
 		var imgheight = $ftimg.height();
 		var imgwidth = $ftimg.width();
-		$ftimg.addClass("activated").css({display:"block",top:event.pageY-imgheight-10,left:event.pageX});
+		console.log('imgheight: '+imgheight);
+		console.log('pageY: '+event.pageY);
+		$ftimg.addClass("activated").css({display:"block",top:event.clientY-imgheight-10,left:event.pageX+10});
+		//$ftimg.addClass("activated").css({display:"block",top:event.pageY,left:event.pageX});
 
 	}, function(event){
 		console.log('end hovering');
@@ -43,8 +46,10 @@ function show_img() {
 		var $active_image = $(".ftimg.activated");
 		var imgheight = $active_image.height();
 		var imgwidth = $active_image.width();
-		console.log(imgheight);
-		$active_image.css({top:event.pageY-imgheight-10,left:event.pageX});
+		console.log('imgheight: '+imgheight)
+		console.log('pageY: '+event.pageY);
+		$active_image.css({top:event.clientY-imgheight-10,left:event.pageX+10});
 	});
 	
 }
+

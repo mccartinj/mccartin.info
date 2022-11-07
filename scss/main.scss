@@ -127,9 +127,9 @@ $desktop-break: 81.25em;
 html, body {
   height: 100%;
   width: 100%;
-  overflow-x: hidden;
-  background: url('https://raw.githubusercontent.com/johnmccartin/johnmccartin.github.io/master/img/brillant.png') repeat fixed $primary-light;
-  //background: $highlight;
+  background: #fafafa;
+  margin: 0;
+  padding: 0;
   
 }
 
@@ -183,7 +183,6 @@ a:hover {
   margin-top: 2em;
   margin-bottom: 2em;
   background: transparent;
-  padding: .5em;
   padding-bottom: 2em;
 
   .home-img-wrap {
@@ -240,9 +239,10 @@ a:hover {
      display: block;
      background: transparent;
      font-weight: 800;
-     font-size: 10vw;
-     transform:scale(2,1);
-     margin-left: 3.4em;
+     font-size: 20.9vw;
+     //padding: 1rem;
+     //transform:scale(2,1);
+     //margin-left: 3.4em;
 
      
      
